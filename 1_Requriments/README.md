@@ -20,7 +20,7 @@
 
 ![](https://github.com/SurajPG1112000/Stepin_Number_System_Convertion/blob/main/5_Images/BODH_TABLE.png)
 
- This project is developed using concept C programming which will perform basic operations converting number from one base value to other like  
+ This project is developed using concept C programming in which will perform basic operations converting number from one base value to other like  
 * hexadecimal to Decimal
 * Binary to Decimal 
 * Octal to Decimal 
