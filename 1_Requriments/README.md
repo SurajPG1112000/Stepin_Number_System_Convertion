@@ -19,3 +19,16 @@
 * Hexadecimal : base 16 
 
 <img src="5_Images/BODH TABLE.png">
+
+ This project is developed using concept C programming which will perform basic operations converting number from one base value to other like  
+* hexadecimal to Decimal
+* Binary to Decimal 
+* Octal to Decimal 
+* Decimal to Binary
+* Decimal to Octal
+* Decimal to Hexadecimal
+* Binary to Hexadecimal
+* Binary to Octal
+* Octal to Binary
+* Hexdecimal to Binary 
+depending on the input from the user.
