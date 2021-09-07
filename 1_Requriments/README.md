@@ -18,5 +18,4 @@
 * Octal: base 8
 * Hexadecimal : base 16 
 
-#
-![](5_Images/BODH TABLE.png)
+<img src="5_Images/BODH TABLE.png">
