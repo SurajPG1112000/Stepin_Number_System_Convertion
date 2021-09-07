@@ -17,3 +17,6 @@
 * Binary : base 2
 * Octal: base 8
 * Hexadecimal : base 16 
+
+#
+![](5_Images/BODH TABLE.png)
