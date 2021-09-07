@@ -31,4 +31,5 @@
 * Binary to Octal
 * Octal to Binary
 * Hexdecimal to Binary 
+
 depending on the input from the user.
