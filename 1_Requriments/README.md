@@ -62,4 +62,35 @@ Basic requirements that are very essential are:
 * gcc compiler with a good system.
 * Any of the two OS  linux/windows.
 
+## High Level Requirements:
+|ID|Description|Status|
+|-------|-------|------|
+|H_01|User shall be able to view the operations available| Implemented|
+|H_02|Selection of choice| Implemented|
+|H_03|Convertion of number from one base to another which is chosen| Implemented|
+|H_04| Exit the program| Implemented
+
+
+## Low Level Requirements:
+|ID|Description|HLR-ID|Status|
+|-------|-------|-------|-------|
+|L_01|List of operations displayed| H_01|Implemented|
+|L_02| Input from user|H_02| Implemented|
+|L_03| Perform converstion from  Hexadecimal To Decimal for choosing 1|H_03|Implemented
+|L_04| Perform converstion from  Binary To Decimal for choosing 2|H_03|Implemented
+|L_05| Perform converstion from  Octal To Decimal for choosing 3|H_03|Implemented
+|L_06| Perform converstion from  Decimal To Binary for choosing 4|H_03|Implemented
+|L_07| Perform converstion from  Decimal To Octal for choosing 5|H_03|Implemented
+|L_08| Perform converstion from  Decimal To Hexadecimal for choosing 6|H_03|Implemented
+|L_09| Perform converstion from  Binary To Hexadecimal for choosing 7|H_03|Implemented
+|L_09| Perform converstion from  Binary To Octal for choosing 8|H_03|Implemented
+|L_09| Perform converstion from  Octal To Binary for choosing 9|H_03|Implemented
+|L_09| Perform converstion from  Hexadecimal To Binary for choosing 10|H_03|Implemented
+|L_10| Exit the program for 0|H_04| Implemented
+
+
+
+
+
+
 
