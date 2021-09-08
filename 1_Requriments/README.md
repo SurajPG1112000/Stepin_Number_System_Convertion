@@ -1,4 +1,4 @@
-# Stepin_Number_System_Convertion
+# Introduction
   In modern computing and digital electronics, the most commonly used bases are decimal (base 10), binary (base 2), octal (base 8), and hexadecimal (base 16).
 * A number can be represented with different base values. We are familiar with the numbers in the base 10 (known as decimal numbers), with digits taking values 0,1,2,…,8,9.
 
@@ -12,7 +12,7 @@
    remaining 6 digits are made up of first 6 letters of the alphabet. Thus the hexadecimal base uses 0,1,2,….8,9,A,B,C,D,E,F as digits. 
 
 
-# To summarize
+# To summarize:
 * Decimal : base 10
 * Binary : base 2
 * Octal: base 8
@@ -33,3 +33,15 @@
 * Hexdecimal to Binary 
 
 depending on the input from the user.
+
+# Objective:
+The main aim of the project are:
+ * To perform the selected operations converting number from one base value to other value selected  by the user.
+ * Output the same result if the entered choice meets the requirement.
+
+
+## SWOT Analysis:
+![]()
+
+
+
