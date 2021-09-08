@@ -45,7 +45,7 @@ The main aim of the project are:
 
 ## ***4 W's and 1 H***
 ## Who
-- Can be used as reference for programmers trying to develop a  higher version for calculation.
+-  This can be used as reference program and trying to develop a  higher version with accurate output for all size input.
 ## What
 - This project is used to perform the operations converting number from one base value to other value selected  by the user.
 ## When 
