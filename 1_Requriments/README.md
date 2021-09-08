@@ -36,12 +36,30 @@ depending on the input from the user.
 
 # Objective:
 The main aim of the project are:
- * To perform the selected operations converting number from one base value to other value selected  by the user.
+ * To perform the operations converting number from one base value to other value selected  by the user.
  * Output the same result if the entered choice meets the requirement.
 
 
 ## SWOT Analysis:
-![]()
+![](https://github.com/SurajPG1112000/Stepin_Number_System_Convertion/blob/main/5_Images/swort.jpg)
 
+## ***4 W's and 1 H***
+## Who
+- Can be used as reference for programmers trying to develop a  higher version for calculation.
+## What
+- This project is used to perform the operations converting number from one base value to other value selected  by the user.
+## When 
+- This project is used widely in situation where quick requirment converting number from one base value to other value in communication, comuputers etc.
+## Why
+- This project uses simple functions, so it is easy for begineers to develop a programm.
+## How
+- This project is implemented using multifile concept, simple switch cases and other functionalities of C.
+- This Project is implemented in C language for the Both Windows & Linux OS.
+
+
+
+Basic requirements that are very essential are:
+* gcc compiler with a good system.
+* Any of the two OS  linux/windows.
 
 
